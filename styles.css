@@ -382,7 +382,7 @@ img {
 }
 
 .input-field::placeholder {
-    /*color: rgb(211, 19, 19)*/
+    /*color: rgb(211, 19, 19)l*/
     color: gray;
 }
 
