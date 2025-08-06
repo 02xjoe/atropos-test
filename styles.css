@@ -52,20 +52,22 @@ img {
 .na11 li a{
     color: #fff;
     text-decoration: none;
-    padding: 25px;
+    padding: 21px;
+    font-size: 25px;
     font-weight: 200;
 
 }
 .na11 .right h2 {
     font-weight:600;
-    font-size: 18px;
+    font-size: 23px;
     margin-top: 5px;
     padding-bottom: 1px;
 }
 
 .na11 .right p{
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 10px;
+    padding-bottom: 10px;
 
 }
 
@@ -340,29 +342,28 @@ img {
     color: gray;
 }
 .contact h2{
-    padding: 2rem;
+    padding: 1rem;
     text-align: center;
 }
 
   .contact-container {
-    
-    width: 45.7rem;
+    width: 41.7rem;
     margin: 0 auto;
-    padding: 1.5rem;
+    padding: 0.9rem;
     border-radius: 20px;
     box-shadow: 0 3.5px 12px orange;
 }
 
 .contact-container label {
-    line-height: 3.1rem;
+    line-height: 2.01rem;
     font-weight: lighter;
     color: #fff;
 }
 
 .contact-container textarea {
-    min-height: 3.5rem;
-    font-size: 0.9rem;
-    border: 1px solid;
+    
+    font-size: 1.0rem;
+    border: 2px solid;
  
 }
 
@@ -371,8 +372,8 @@ img {
     font-size: 0.9rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 100%;
-    padding-bottom: 15px;
-    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
     border: 1px solid;
     border-color: #fff;
     border-radius: 7px;
