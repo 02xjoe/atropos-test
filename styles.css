@@ -387,6 +387,10 @@ img {
     color: gray;
 }
 
+.control-form1 .input-field {
+    height: 6rem;
+}
+
 .submit-btn {
     background-color: #fff;
     width: 100%;
