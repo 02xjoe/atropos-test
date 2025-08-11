@@ -25,7 +25,7 @@ if (close) {
     })
 }
 
-// Add event listener to each menu item to close the menu after click.
+// Add event listener to each menu item to close the menu after click..
 const menuItems = document.querySelectorAll('#navbar li a');
 menuItems.forEach((menuItem) => {
   menuItem.addEventListener('click', () => {

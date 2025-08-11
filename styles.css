@@ -583,10 +583,12 @@ footer a {
     margin-bottom: 3.5rem;
  }
 
-.contact-container .input-field
+.contact-container {
+    width: 18.5rem;
+}
 
  .contact .contact-container {
-    width: 17.7rem;
+    width: 20.7rem;
     border-radius: 22px;
 }
 .contact .contact-container .input-field {
@@ -597,9 +599,6 @@ footer a {
     min-height: 6.5rem;
 
 } 
-.contact-container textarea {
-    font-size: 0.5rem;
-}
 
 }
 
@@ -823,7 +822,7 @@ h1  {
 }
 
 .contact-container {
-    width: 40.7rem;
+    width: 18.7rem;
     border-radius: 24px;
 }
  
@@ -832,7 +831,7 @@ h1  {
 }
 
 .contact-container .input-field {
-    font-size: 1.2rem;
+    font-size: 0.7rem;
 }
 
 .submit-btn {
